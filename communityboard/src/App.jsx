@@ -11,7 +11,7 @@ const App = () => {
       <table>
         <tr>
           <td><EventCard link={"https://calendar.umd.edu/umd-powwow?start=2024-03-02"} name={"UMD Powwow"}/></td>
-          <td><EventCard link={"https://calendar.umd.edu/super-smash-bros-tournament?start=2024-03-06"} name={"Super Smash Bros. Tournament"}/></td>
+          <td><EventCard link={"https://calendar.umd.edu/super-smash-bros-tournament?start=2024-03-06"}  name={"Super Smash Bros. Tournament"}/></td>
           <td><EventCard link={"https://calendar.umd.edu/italian-night-chef-herb-takeover-at-south-campus-dining-hall?start=2024-03-29"} name={"Italian Night: Chef Herb Takeover at South Campus Dining Hall"}/></td>
         </tr>
         <tr>
